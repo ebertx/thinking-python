@@ -11,3 +11,9 @@ def draw(t, length, n):
     draw(t, length, n-1)
     lt(t, angle)
     bk(t, length*n)
+
+world = TurtleWorld()
+bob = Turtle()
+bob.delay = .01
+
+draw(bob, 10, 5)
