@@ -4,4 +4,4 @@ def is_palindrome(word):
 print is_palindrome("hatface")
 print is_palindrome("racecar")
 print is_palindrome("it")
-print is_palindrome("anna")
+print is_palindrome("ansna")
